@@ -1,0 +1,27 @@
+# LLM & AI Agent Frameworks
+langchain
+langchain-groq
+llama-index  # Automatically installs the latest version
+
+# Backend (API)
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+sqlite-utils
+
+# Environment Variables
+python-dotenv
+
+# Logging & Debugging
+loguru
+
+# Task Scheduling (For Reminders)
+apscheduler
+
+# CLI Interaction (Optional)
+typer
+
+# Streamlit UI (Optional)
+streamlit
